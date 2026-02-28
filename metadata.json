@@ -1,0 +1,5 @@
+{
+  "name": "Remix: 项目洞察 AI",
+  "description": "一个可定制的 AI 助手，可从配置的数据源中检索并汇总特定项目的数据。",
+  "requestFramePermissions": []
+}
